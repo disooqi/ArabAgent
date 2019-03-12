@@ -1,0 +1,56 @@
+<SemanticNetwork createdBy="dos" createdOn="24/03/2013 06:55:56 م">
+  <Nodes>
+    <C cid="c63273" lt_interest="">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SCISD="0.0923076923076923" />
+      </Days>
+    </C>
+    <C cid="c1348" lt_interest="">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SCISD="0.107692307692308" />
+      </Days>
+    </C>
+    <C cid="c60132" lt_interest="">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SCISD="0.0461538461538462" />
+      </Days>
+    </C>
+    <C cid="c154653" lt_interest="">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SCISD="0.0461538461538462" />
+      </Days>
+    </C>
+  </Nodes>
+  <Edges>
+    <E from="c63273" to="c1348">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SMP="0.0923076923076923" />
+      </Days>
+    </E>
+    <E from="c63273" to="c60132">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SMP="0.0461538461538462" />
+      </Days>
+    </E>
+    <E from="c63273" to="c154653">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SMP="0.0461538461538462" />
+      </Days>
+    </E>
+    <E from="c1348" to="c60132">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SMP="0.0461538461538462" />
+      </Days>
+    </E>
+    <E from="c1348" to="c154653">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SMP="0.0461538461538462" />
+      </Days>
+    </E>
+    <E from="c60132" to="c154653">
+      <Days>
+        <Day date="26/03/2013 12:00:00 ص" docCount="1" SMP="0.0461538461538462" />
+      </Days>
+    </E>
+  </Edges>
+</SemanticNetwork>

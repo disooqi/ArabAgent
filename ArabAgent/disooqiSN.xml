@@ -1,0 +1,117 @@
+﻿<SemanticNetwork created="date">
+<Nodes>
+	<C cid="النادي الاهلي" lt-interest="">
+		<Days>
+			<Day date= "14/06/2011"  docCount="4" sumOfConceptImpInIndividualDocsInThatDay="0.4" />
+			<Day date= "12/06/2011"  docCount="1" sumOfConceptImpInIndividualDocsInThatDay="0.9" />
+			<Day date= "11/06/2011"  docCount="3" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "10/06/2011"  docCount="6" sumOfConceptImpInIndividualDocsInThatDay="0.5" />
+			<Day date= "9/06/2011"   docCount="2" sumOfConceptImpInIndividualDocsInThatDay="0.1" />
+			<Day date= "7/06/2011"   docCount="3" sumOfConceptImpInIndividualDocsInThatDay="1.8" />
+			<Day date= "6/06/2011"   docCount="10" sumOfConceptImpInIndividualDocsInThatDay="0.3" />
+			<Day date= "2/06/2011"   docCount="6" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "1/06/2011"   docCount="5" sumOfConceptImpInIndividualDocsInThatDay="1.2" />
+			<Day date= "30/05/2011"  docCount="3" sumOfConceptImpInIndividualDocsInThatDay="0.6" />
+			<Day date= "24/05/2011"  docCount="2" sumOfConceptImpInIndividualDocsInThatDay="0.4" />
+			<Day date= "22/05/2011"  docCount="2" sumOfConceptImpInIndividualDocsInThatDay="0.6" />
+			<Day date= "20/05/2011"  docCount="6" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "15/05/2011"  docCount="12" sumOfConceptImpInIndividualDocsInThatDay="1.1" />
+		</Days>
+	</C>
+	<C cid="نادي الزمالك"  lt-interest="">
+		<Days>
+			<Day date= "10/06/2011"  docCount="1" sumOfConceptImpInIndividualDocsInThatDay="0.4" />
+			<Day date= "1/06/2011"  docCount="1" sumOfConceptImpInIndividualDocsInThatDay="0.9" />
+			<Day date= "29/05/2011"  docCount="2" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+		</Days>
+	</C>
+	<C cid="المنتخب"  lt-interest="">
+		<Days>
+			<Day date= "14/06/2011"  docCount="3" sumOfConceptImpInIndividualDocsInThatDay="0.4" />
+			<Day date= "12/06/2011"  docCount="3" sumOfConceptImpInIndividualDocsInThatDay="0.9" />
+			<Day date= "11/06/2011"  docCount="6" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "10/06/2011"  docCount="5" sumOfConceptImpInIndividualDocsInThatDay="0.5" />
+			<Day date= "9/06/2011"   docCount="6" sumOfConceptImpInIndividualDocsInThatDay="0.1" />
+			<Day date= "7/06/2011"   docCount="3" sumOfConceptImpInIndividualDocsInThatDay="1.8" />
+			<Day date= "4/06/2011"   docCount="2" sumOfConceptImpInIndividualDocsInThatDay="0.3" />
+			<Day date= "3/06/2011"   docCount="2" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "1/06/2011"   docCount="1" sumOfConceptImpInIndividualDocsInThatDay="1.2" />
+			<Day date= "30/05/2011"  docCount="7" sumOfConceptImpInIndividualDocsInThatDay="0.6" />
+			<Day date= "27/05/2011"  docCount="10" sumOfConceptImpInIndividualDocsInThatDay="0.4" />
+			<Day date= "22/05/2011"  docCount="1" sumOfConceptImpInIndividualDocsInThatDay="0.6" />
+			<Day date= "20/05/2011"  docCount="5" sumOfConceptImpInIndividualDocsInThatDay="0.6" />
+			<Day date= "18/05/2011"  docCount="1" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "17/05/2011"  docCount="17" sumOfConceptImpInIndividualDocsInThatDay="1.1" />
+			<Day date= "16/05/2011"  docCount="2" sumOfConceptImpInIndividualDocsInThatDay="1.1" />
+		</Days>
+	</C>
+	<C cid="أبو تريكة"  lt-interest="">
+		<Days>
+			<Day date= "14/06/2011"   docCount="1" sumOfConceptImpInIndividualDocsInThatDay="1.8" />
+			<Day date= "13/06/2011"   docCount="2" sumOfConceptImpInIndividualDocsInThatDay="0.3" />
+			<Day date= "7/06/2011"   docCount="1" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "1/06/2011"   docCount="1" sumOfConceptImpInIndividualDocsInThatDay="1.2" />
+			<Day date= "30/05/2011"  docCount="3" sumOfConceptImpInIndividualDocsInThatDay="0.6" />
+			<Day date= "24/05/2011"  docCount="1" sumOfConceptImpInIndividualDocsInThatDay="0.4" />
+			<Day date= "22/05/2011"  docCount="1" sumOfConceptImpInIndividualDocsInThatDay="0.6" />
+			<Day date= "20/05/2011"  docCount="2" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "15/05/2011"  docCount="3" sumOfConceptImpInIndividualDocsInThatDay="1.1" />
+		</Days>
+	</C>
+	<C cid="حسن حمدي"  lt-interest="">
+		<Days>
+			<Day date= "7/06/2011"   docCount="4" sumOfConceptImpInIndividualDocsInThatDay="1.8" />
+		</Days>
+	</C>
+	<C cid="مصر"  lt-interest="">
+		<Days>
+			<Day date= "30/05/2011"  docCount="7" sumOfConceptImpInIndividualDocsInThatDay="0.6" />
+			<Day date= "20/05/2011"  docCount="12" sumOfConceptImpInIndividualDocsInThatDay="0.2" />
+			<Day date= "16/05/2011"  docCount="9" sumOfConceptImpInIndividualDocsInThatDay="1.1" />
+		</Days>
+	</C>
+</Nodes>
+<Edges>
+	<E from="النادي الاهلي" to="نادي الزمالك">
+		<Days>
+			<Day date= "10/06/2011" docCount="5" sumOfMinParticipants="0.6" />
+			<Day date= "1/06/2011" docCount="3" sumOfconceptImpsAverage="0.4" />
+		</Days>
+	</E>
+	<E from="النادي الاهلي" to="أبو تريكة">
+		<Days>
+			<Day date= "30/05/2011" docCount="2" sumOfconceptImpsAverage="0.6" />
+			<Day date= "24/05/2011" docCount="1" sumOfconceptImpsAverage="0.4" />
+		</Days>
+	</E>
+	<E from="النادي الاهلي" to="حسن حمدي">
+		<Days>
+			<Day date= "7/06/2011" docCount="2" sumOfconceptImpsAverage="0.6" />
+		</Days>
+	</E>
+	<E from="أبو تريكة" to="حسن حمدي">
+		<Days>
+			<Day date= "7/06/2011" docCount="1" sumOfconceptImpsAverage="0.6" />
+		</Days>
+	</E>
+	<E from="النادي الاهلي" to="مصر">
+		<Days>
+			<Day date= "30/05/2011" docCount="3" sumOfconceptImpsAverage="0.6" />
+			<Day date= "20/05/2011" docCount="3" sumOfconceptImpsAverage="0.4" />
+		</Days>
+	</E>
+	<E from="المنتخب" to="أبو تريكة">
+		<Days>
+			<Day date= "14/06/2011" docCount="1" sumOfconceptImpsAverage="0.6" />
+			<Day date= "24/05/2011" docCount="1" sumOfconceptImpsAverage="0.4" />
+		</Days>
+	</E>
+	<E from="المنتخب" to="مصر">
+		<Days>
+			<Day date= "30/05/2011" docCount="5" sumOfconceptImpsAverage="0.6" />
+			<Day date= "20/05/2011" docCount="5" sumOfconceptImpsAverage="0.4" />
+			<Day date= "16/05/2011" docCount="2" sumOfconceptImpsAverage="0.4" />
+		</Days>
+	</E>
+</Edges>
+</SemanticNetwork>
